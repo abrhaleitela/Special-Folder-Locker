@@ -1,0 +1,11 @@
+C:\Users\ABR\AppData\Local\Temporary Projects\Enc\bin\Debug\Enc.exe
+C:\Users\ABR\AppData\Local\Temporary Projects\Enc\bin\Debug\Enc.pdb
+C:\Users\ABR\AppData\Local\Temporary Projects\Enc\bin\Debug\Enc.xml
+C:\Users\ABR\AppData\Local\Temporary Projects\Enc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ABR\AppData\Local\Temporary Projects\Enc\obj\x86\Debug\Enc.Form1.resources
+C:\Users\ABR\AppData\Local\Temporary Projects\Enc\obj\x86\Debug\Enc.Resources.resources
+C:\Users\ABR\AppData\Local\Temporary Projects\Enc\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ABR\AppData\Local\Temporary Projects\Enc\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ABR\AppData\Local\Temporary Projects\Enc\obj\x86\Debug\Enc.exe
+C:\Users\ABR\AppData\Local\Temporary Projects\Enc\obj\x86\Debug\Enc.xml
+C:\Users\ABR\AppData\Local\Temporary Projects\Enc\obj\x86\Debug\Enc.pdb

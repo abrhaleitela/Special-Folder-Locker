@@ -1,0 +1,76 @@
+C:\Users\ABR\Desktop\Encryption\Encryption\bin\Debug\Encryption.exe
+C:\Users\ABR\Desktop\Encryption\Encryption\bin\Debug\Encryption.pdb
+C:\Users\ABR\Desktop\Encryption\Encryption\bin\Debug\Encryption.xml
+C:\Users\ABR\Desktop\Encryption\Encryption\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ABR\Desktop\Encryption\Encryption\obj\x86\Debug\Enc.frmmain.resources
+C:\Users\ABR\Desktop\Encryption\Encryption\obj\x86\Debug\Enc.frmdecrypt.resources
+C:\Users\ABR\Desktop\Encryption\Encryption\obj\x86\Debug\Enc.frmencrypt.resources
+C:\Users\ABR\Desktop\Encryption\Encryption\obj\x86\Debug\Enc.frmpassrec.resources
+C:\Users\ABR\Desktop\Encryption\Encryption\obj\x86\Debug\Enc.Resources.resources
+C:\Users\ABR\Desktop\Encryption\Encryption\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ABR\Desktop\Encryption\Encryption\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ABR\Desktop\Encryption\Encryption\obj\x86\Debug\Encryption.exe
+C:\Users\ABR\Desktop\Encryption\Encryption\obj\x86\Debug\Encryption.xml
+C:\Users\ABR\Desktop\Encryption\Encryption\obj\x86\Debug\Encryption.pdb
+D:\Edus N Projs\Encryption Proj\Encryption\obj\x86\Debug\Encryption.exe
+D:\Edus N Projs\Encryption Proj\Encryption\obj\x86\Debug\Encryption.xml
+D:\Edus N Projs\Encryption Proj\Encryption\obj\x86\Debug\Encryption.pdb
+D:\Edus N Projs\Encryption Proj\Encryption\bin\Debug\Encryption.exe
+D:\Edus N Projs\Encryption Proj\Encryption\bin\Debug\Encryption.pdb
+D:\Edus N Projs\Encryption Proj\Encryption\bin\Debug\Encryption.xml
+D:\Edus N Projs\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmmain.resources
+D:\Edus N Projs\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmdecrypt.resources
+D:\Edus N Projs\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmencrypt.resources
+D:\Edus N Projs\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmpassrec.resources
+D:\Edus N Projs\Encryption Proj\Encryption\obj\x86\Debug\Enc.Resources.resources
+D:\Edus N Projs\Encryption Proj\Encryption\obj\x86\Debug\Encryption.vbproj.GenerateResource.Cache
+D:\Edus N Projs\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmregister.resources
+D:\Edus N Projs\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmmessage.resources
+D:\Edus N Projs\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmyesnomessage.resources
+D:\Edus N Projs\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmdelete.resources
+D:\Edus N Projs\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmlogin.resources
+D:\Edus N Projs\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmclosemessage.resources
+D:\Edus N Projs\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmremove.resources
+D:\Edus N Projs\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmcontact.resources
+D:\Users\Abrye\Desktop\Encryption Proj\Encryption\obj\x86\Debug\Encryption.exe
+D:\Users\Abrye\Desktop\Encryption Proj\Encryption\obj\x86\Debug\Encryption.xml
+D:\Users\Abrye\Desktop\Encryption Proj\Encryption\obj\x86\Debug\Encryption.pdb
+D:\Users\Abrye\Desktop\Encryption Proj\Encryption\bin\Debug\Encryption.exe
+D:\Users\Abrye\Desktop\Encryption Proj\Encryption\bin\Debug\Encryption.pdb
+D:\Users\Abrye\Desktop\Encryption Proj\Encryption\bin\Debug\Encryption.xml
+D:\Users\Abrye\Desktop\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmmain.resources
+D:\Users\Abrye\Desktop\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmclosemessage.resources
+D:\Users\Abrye\Desktop\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmcontact.resources
+D:\Users\Abrye\Desktop\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmdecrypt.resources
+D:\Users\Abrye\Desktop\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmdelete.resources
+D:\Users\Abrye\Desktop\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmencrypt.resources
+D:\Users\Abrye\Desktop\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmlogin.resources
+D:\Users\Abrye\Desktop\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmmessage.resources
+D:\Users\Abrye\Desktop\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmpassrec.resources
+D:\Users\Abrye\Desktop\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmyesnomessage.resources
+D:\Users\Abrye\Desktop\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmremove.resources
+D:\Users\Abrye\Desktop\Encryption Proj\Encryption\obj\x86\Debug\Enc.Resources.resources
+D:\Users\Abrye\Desktop\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmregister.resources
+D:\Users\Abrye\Desktop\Encryption Proj\Encryption\obj\x86\Debug\Encryption.vbproj.GenerateResource.Cache
+D:\Users\Abrye\Desktop\EIT Staff\projects\Encryption Proj\Encryption\obj\x86\Debug\Encryption.exe
+D:\Users\Abrye\Desktop\EIT Staff\projects\Encryption Proj\Encryption\obj\x86\Debug\Encryption.xml
+D:\Users\Abrye\Desktop\EIT Staff\projects\Encryption Proj\Encryption\obj\x86\Debug\Encryption.pdb
+C:\Users\Abri\Desktop\To be copied\Fun projects\Encryption Proj\Encryption\obj\x86\Debug\Encryption.vbprojAssemblyReference.cache
+C:\Users\Abri\Desktop\To be copied\Fun projects\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmmain.resources
+C:\Users\Abri\Desktop\To be copied\Fun projects\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmclosemessage.resources
+C:\Users\Abri\Desktop\To be copied\Fun projects\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmcontact.resources
+C:\Users\Abri\Desktop\To be copied\Fun projects\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmdecrypt.resources
+C:\Users\Abri\Desktop\To be copied\Fun projects\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmdelete.resources
+C:\Users\Abri\Desktop\To be copied\Fun projects\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmencrypt.resources
+C:\Users\Abri\Desktop\To be copied\Fun projects\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmlogin.resources
+C:\Users\Abri\Desktop\To be copied\Fun projects\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmmessage.resources
+C:\Users\Abri\Desktop\To be copied\Fun projects\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmpassrec.resources
+C:\Users\Abri\Desktop\To be copied\Fun projects\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmyesnomessage.resources
+C:\Users\Abri\Desktop\To be copied\Fun projects\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmremove.resources
+C:\Users\Abri\Desktop\To be copied\Fun projects\Encryption Proj\Encryption\obj\x86\Debug\Enc.Resources.resources
+C:\Users\Abri\Desktop\To be copied\Fun projects\Encryption Proj\Encryption\obj\x86\Debug\Enc.frmregister.resources
+C:\Users\Abri\Desktop\To be copied\Fun projects\Encryption Proj\Encryption\obj\x86\Debug\Encryption.vbproj.GenerateResource.cache
+C:\Users\Abri\Desktop\To be copied\Fun projects\Encryption Proj\Encryption\obj\x86\Debug\Encryption.vbproj.CoreCompileInputs.cache
+C:\Users\Abri\Desktop\To be copied\Fun projects\Encryption Proj\Encryption\obj\x86\Debug\Encryption.exe
+C:\Users\Abri\Desktop\To be copied\Fun projects\Encryption Proj\Encryption\obj\x86\Debug\Encryption.xml
+C:\Users\Abri\Desktop\To be copied\Fun projects\Encryption Proj\Encryption\obj\x86\Debug\Encryption.pdb
